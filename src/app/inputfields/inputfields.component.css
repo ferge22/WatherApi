@@ -1,0 +1,22 @@
+.example-form{
+  margin-top: 50px;
+}
+
+.inputcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.weathercss{
+  display: grid;
+  justify-content: center;
+}
+
+.errormsg{
+  margin-top: 50px;
+  text-align: center;
+  color: red;
+  font-size: 15pt;
+}
